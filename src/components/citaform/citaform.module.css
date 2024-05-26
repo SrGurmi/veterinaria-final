@@ -1,0 +1,56 @@
+/* Estilos generales */
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+.title {
+  color: #02761d;
+  margin-top: 0.3rem;
+  font-weight: 450;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 30rem;
+  margin: 0 auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 0.6rem;
+  padding: 0.5rem;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.citaForm__input {
+  width: 100%;
+  padding: 0.625rem;
+  border: 1px solid #ced4d8;
+  border-radius: 5px;
+}
+
+textarea {
+  height: 100px;
+  resize: vertical;
+}
+
+.citaForm__buttonEnviar {
+  background-color: #fdd45b;
+  color: #4b4e57;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  margin-top: 10px;
+  width: 7.5rem;
+  font-weight: 500;
+}
+
+/* mio */
+
+.citaForm__mainBox {
+  background-color: #f9f9f9;
+  text-align: left;
+}

@@ -1,0 +1,54 @@
+.navBar {
+  background-color: #00771e;
+  padding-top: 0.7rem;
+  padding-bottom: 0.4rem;
+  padding-left: 2rem;
+}
+
+.navBarMain {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navBar__box {
+  display: flex;
+  align-items: center;
+}
+.nav__img {
+  margin-right: 1rem;
+}
+.nav__inicio {
+  color: white;
+  text-decoration: none;
+  margin: 8px;
+}
+.nav__item {
+  color: #89c098;
+  text-decoration: none;
+  margin: 8px;
+}
+.navBarLogging {
+  display: flex;
+}
+.crearCuenta__botton {
+  background-color: #febf09;
+  border: none;
+  color: #00771e;
+  margin-left: 1.2rem;
+  border-radius: 0.5rem;
+  padding: 0.4rem;
+  padding-left: 0.6rem;
+  padding-right: 0.6rem;
+  font-weight: 500;
+}
+.iniciarSession__botton {
+  background-color: #00771e;
+  color: white;
+  border: 0.0625rem solid white;
+  margin-right: 4rem;
+  margin-left: 1.2rem;
+  border-radius: 0.5rem;
+  padding: 0.4rem;
+  font-weight: 350;
+}

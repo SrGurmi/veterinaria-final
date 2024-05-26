@@ -1,0 +1,22 @@
+.navBar__login {
+  display: flex;
+  justify-content: end;
+  margin-right: 6%;
+}
+.inputField {
+  padding-top: 0.17rem;
+  padding-left: 0.17rem;
+  padding-bottom: 0.27rem;
+  border-radius: 0.3rem;
+  border: none;
+  margin-right: 1rem;
+  width: 15rem;
+}
+
+.logginButton__button {
+  background-color: rgb(253, 191, 5);
+  color: #00771e;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.3rem 0.5rem;
+}

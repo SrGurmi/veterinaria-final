@@ -1,0 +1,28 @@
+.logOut_container {
+  display: flex;
+  margin-right: 3rem;
+}
+
+.logOut__cerrarSesion {
+}
+
+.logOut__boton {
+  background-color: #febf09;
+  border: none;
+  color: #00771e;
+  margin-left: 1.2rem;
+  border-radius: 0.5rem;
+  padding: 0.4rem;
+  padding-left: 0.6rem;
+  padding-right: 0.6rem;
+  font-weight: 500;
+}
+
+.logOut__bienvenido {
+  color: #89c098;
+  padding-top: 0.4rem;
+}
+
+.usernameColor {
+  color: white;
+}
